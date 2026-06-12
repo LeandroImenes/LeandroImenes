@@ -10,7 +10,7 @@ Leandro Imenes de Oliveira, programador sênior que desenvolve jogos. Alguns de 
 
 <img 
     align="left" 
-    width="30px" 
+    width="45px" 
     style="padding-right: 10px;" 
 />
 <img 
