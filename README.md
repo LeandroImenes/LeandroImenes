@@ -25,7 +25,7 @@ Leandro Imenes de Oliveira, programador sênior que desenvolve jogos. Alguns de 
     align="left" 
     alt="C" 
     title="C"
-    width="45px" 
+    width="48px" 
     style="padding-right: 10px;" 
     src="https://img.icons8.com/color/600/c-programming.png" 
 />
