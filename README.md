@@ -25,6 +25,14 @@ Leandro Imenes, programador sênior que desenvolve jogos. Alguns de seus projeto
     style="padding-right: 10px;" 
     src="https://img.icons8.com/color/600/c-programming.png" 
 />
+<img 
+    align="left" 
+    alt="tung" 
+    title="tung"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://www.pngarts.com/files/18/Tung-Tung-Tung-Sahur-Transparent-HQ.png" 
+/>
 <br/>
 <br/>
 
