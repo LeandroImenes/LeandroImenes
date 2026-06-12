@@ -1,6 +1,6 @@
 ### Eu
 
-Leandro Imenes, programador sênior que desenvolve jogos. Alguns de seus projetos são Red Dead Redemption 2, Elden Ring e Hollow Knight
+Leandro Imenes de Oliveira, programador sênior que desenvolve jogos. Alguns de seus projetos são Red Dead Redemption 2, Elden Ring e Hollow Knight
 
 ### Linguagens
 
