@@ -1,5 +1,5 @@
 <p>
-  <img align="right" src="https://media.tenor.com/giNrzT0tQGsAAAAj/bonfire-dark-souls.gif" width="250">
+  <img align="right" src="https://media.tenor.com/giNrzT0tQGsAAAAj/bonfire-dark-souls.gif" width="220">
 </p>
 
 ### Linguagens
