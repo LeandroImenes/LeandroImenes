@@ -1,7 +1,3 @@
-### Eu
-
-Leandro Imenes de Oliveira, programador sênior que desenvolve jogos. Alguns de seus projetos são Red Dead Redemption 2, Elden Ring e Hollow Knight.
-
 <p>
   <img align="right" src="https://media.tenor.com/giNrzT0tQGsAAAAj/bonfire-dark-souls.gif" width="400">
 </p>
@@ -28,14 +24,6 @@ Leandro Imenes de Oliveira, programador sênior que desenvolve jogos. Alguns de 
     width="48px" 
     style="padding-right: 10px;" 
     src="https://img.icons8.com/color/600/c-programming.png" 
-/>
-<img 
-    align="left" 
-    alt="Triple T" 
-    title="Triple T"
-    width="45px" 
-    style="padding-right: 10px;" 
-    src="https://www.pngarts.com/files/18/Tung-Tung-Tung-Sahur-Transparent-HQ.png" 
 />
 <br/>
 <br/>
