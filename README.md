@@ -11,11 +11,11 @@
 />
 <img 
     align="left" 
-    alt="C#" 
-    title="C#"
+    alt="html" 
+    title="html"
     width="45px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/3840px-HTML5_Badge.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" 
 />
 <img 
     align="left" 
