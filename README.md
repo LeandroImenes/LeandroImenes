@@ -25,6 +25,14 @@
     style="padding-right: 10px;" 
     src="https://img.icons8.com/color/600/c-programming.png" 
 />
+<img 
+    align="left" 
+    alt="C" 
+    title="C"
+    width="48px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/color/512/javascript--v1.png" 
+/>
 <br/>
 <br/>
 
