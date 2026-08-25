@@ -33,6 +33,14 @@
     style="padding-right: 10px;" 
     src="https://img.icons8.com/color/512/javascript--v1.png" 
 />
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/960px-CSS3_logo.svg.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=thumbnail" 
+/>
 <br/>
 <br/>
 
