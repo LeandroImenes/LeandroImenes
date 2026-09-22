@@ -4,7 +4,7 @@
   <img align="right" src="https://media.tenor.com/giNrzT0tQGsAAAAj/bonfire-dark-souls.gif" width="200">
 </p>
 
-### Linguagens
+### Languages
 <br>
 <img 
     align="left" 
