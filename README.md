@@ -43,6 +43,14 @@
     style="padding-right: 10px;" 
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/960px-CSS3_logo.svg.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=thumbnail" 
 />
+<img 
+    align="left" 
+    alt="SQL" 
+    title="SQL"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://brandlogos.net/wp-content/uploads/2026/06/microsoft-sql-server-logo.png" 
+/>
 <br/>
 <br/>
 
